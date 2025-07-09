@@ -30,3 +30,6 @@ bashnpm install
 Start the development server:
 
 bashnpm start
+![image](https://github.com/user-attachments/assets/4bb8b35b-6c36-4bb6-86bb-9923e030f9b9)
+![image](https://github.com/user-attachments/assets/7a5b5b43-643e-46f1-849e-7da6fb1a9d6b)
+
